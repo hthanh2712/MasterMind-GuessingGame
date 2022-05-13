@@ -1,6 +1,6 @@
 # The Guessing Game: MasterMind
 
-The final project: Based on the Altera DE1-SOC development board, develop and implement a game with the objective of guessing N-digit passcode with the hints showed on the LCD after each try. 
+The final project: Based on the Altera DE1-SOC development board, using HDL (SystemVerilog) to design and implement a game with the objective of guessing N-digit passcode with the hints showed on the LCD after each try. 
 
 ## Description
 
